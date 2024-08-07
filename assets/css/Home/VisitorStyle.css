@@ -1,0 +1,111 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.header-Config {
+    height: 110vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/Visitor/assets/images/header_Bckg.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.search-Config:hover {
+    color: white !important;
+    opacity: 1 !important;
+}
+
+.nav-Config {
+    transition-duration: 1s;
+    transition-property: background-color;
+    z-index: 1;
+}
+
+.nav-Config.anchor-head-Config {
+    color: black !important;
+}
+
+.icon-nav-Config:hover {
+    color: white !important;
+}
+
+.search-Config:active,
+.icon-nav-Config:active,
+.anchor-head-Config:active {
+    opacity: 0.75 !important;
+}
+
+.anchor-head-Config:hover {
+    text-decoration: underline;
+    color: white !important;
+}
+
+.punch-box-Config {
+    height: 500px;
+}
+
+.punch-region-Config {
+    position: relative;
+    top: 78px;
+}
+
+.punch-Config {
+    font-size: 100px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+    opacity: 0.75;
+}
+
+.sub1-main-Cont {
+    height: 250px;
+}
+
+.input-main-sub1-Config {
+    height: 50px;
+    width: 250px;
+}
+
+.sub2-main-Cont {
+    height: 400px;
+    background-color: rgba(255, 140, 0, 0.65);
+}
+
+.sub2-main-heading,
+.sub2-main-prgh {
+    color: black;
+    opacity: 1 !important;
+}
+
+.sub2-main-heading {
+    letter-spacing: 3px;
+}
+
+.sub1-footer-Cont {
+    height: 450px;
+    background-color: hsl(206, 34%, 20%);
+}
+
+.sub2-footer-Cont {
+    height: 65px;
+    background-color: hsl(206, 34%, 16%);
+}
+
+.input-sub1-footer-Config {
+    height: 50px;
+    width: 300px;
+}
+
+.button-sub1-footer-Config {
+    height: 50px;
+    width: 300px;
+}

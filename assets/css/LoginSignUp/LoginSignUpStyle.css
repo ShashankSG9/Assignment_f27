@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.prent-header-Cont{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) ,url(/Visitor/assets/images/beach_Login.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.anchor-head-Config:hover{
+    color: white !important;
+}
+
+.sub2-head-Cont{
+    height: 75%;
+    width: 90%;
+}
+
+.sub2-h1-Config{
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+}
+
+.sub2-h3-Config{
+    font-family: "Noto Sans SC", sans-serif;
+}
+
+.login-region{
+    height: 90%;
+    width: 33%;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 20px;
+}
+
+.anchor-login-Config:hover{
+    color: rgba(255, 255, 255, 0.75) !important;
+}

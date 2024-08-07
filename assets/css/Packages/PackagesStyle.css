@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%
+}
+
+.prent-header-Cont {
+    height: 100vh;
+}
+
+.anchor-head-Config:hover {
+    opacity: 0.75;
+}
+
+.sub2-header-Cont {
+    margin-top: 100px;
+}
+
+.sub3-header-Cont {
+    height: 1200px;
+}
+
+.sub3-image-first-Config {
+    background-image: url(/Visitor/assets/images/packege-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sub3-image-second-Config {
+    background-image: url(/Visitor/assets/images/packege-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sub3-image-third-Config {
+    background-image: url(/Visitor/assets/images/packege-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sub3-card1-secondBox-Config,
+.sub3-card2-secondBox-Config,
+.sub3-card3-secondBox-Config {
+    height: 40px;
+    width: 90%;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 9px 1px darkgray;
+}
