@@ -26,19 +26,19 @@ body {
 }
 
 .sub3-image-first-Config {
-    background-image: url(/Visitor/assets/images/packege-1.jpg);
+    background-image: url(../images/packege-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .sub3-image-second-Config {
-    background-image: url(/Visitor/assets/images/packege-2.jpg);
+    background-image: url(../images/packege-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .sub3-image-third-Config {
-    background-image: url(/Visitor/assets/images/packege-3.jpg);
+    background-image: url(../images/packege-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }

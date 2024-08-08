@@ -12,7 +12,7 @@ body {
 
 .prent-header-Cont {
     height: 120vh;
-    background-image: linear-gradient(rgba(169, 169, 169, 0.75), rgba(128, 128, 128, 0.5), rgba(105, 105, 105, 0.5), rgba(0, 0, 0, 0.65)), url(/Visitor/assets/images/destination_Map1.jpg);
+    background-image: linear-gradient(rgba(169, 169, 169, 0.75), rgba(128, 128, 128, 0.5), rgba(105, 105, 105, 0.5), rgba(0, 0, 0, 0.65)), url(../images/destination_Map1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }

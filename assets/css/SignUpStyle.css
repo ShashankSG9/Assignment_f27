@@ -11,7 +11,7 @@ body {
 
 .prent-header-Cont {
     height: 100vh;
-    background: linear-gradient(rgba(0, 255, 255, 0.25), rgba(0, 191, 255, 0.25), rgba(30, 143, 255, 0.25), rgba(65, 105, 225, 0.25), rgba(0, 0, 255, 0.25), rgba(0, 0, 205, 0.25)), url(/Visitor/assets/images/river_Login.jpg);
+    background: linear-gradient(rgba(0, 255, 255, 0.25), rgba(0, 191, 255, 0.25), rgba(30, 143, 255, 0.25), rgba(65, 105, 225, 0.25), rgba(0, 0, 255, 0.25), rgba(0, 0, 205, 0.25)), url(../images/river_Login.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     display: flex;
