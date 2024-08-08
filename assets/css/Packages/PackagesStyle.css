@@ -10,7 +10,7 @@ body {
 }
 
 .prent-header-Cont {
-    height: 100vh;
+    height: 200vh;
 }
 
 .anchor-head-Config:hover {
@@ -50,4 +50,29 @@ body {
     width: 90%;
     background-color: whitesmoke;
     box-shadow: 0px 0px 9px 1px darkgray;
+}
+
+.sub1-main-Cont {
+    height: 400px;
+    background-color: rgba(255, 140, 0, 0.65);
+}
+
+.sub1-footer-Cont {
+    height: 450px;
+    background-color: hsl(206, 34%, 20%);
+}
+
+.sub2-footer-Cont {
+    height: 65px;
+    background-color: hsl(206, 34%, 16%);
+}
+
+.input-sub1-footer-Config {
+    height: 50px;
+    width: 300px;
+}
+
+.button-sub1-footer-Config {
+    height: 50px;
+    width: 300px;
 }
