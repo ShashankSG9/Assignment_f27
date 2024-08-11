@@ -12,7 +12,7 @@ body {
 
 .header-Config {
     height: 110vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/header_Bckg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/home_bckg1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     background-color: black;

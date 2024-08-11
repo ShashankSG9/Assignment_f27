@@ -8,7 +8,7 @@ html, body{
 }
 .prent-header-Cont{
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) ,url(../images/beach_Login.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) ,url(../images/beach_login1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
