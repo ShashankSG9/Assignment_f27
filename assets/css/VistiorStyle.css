@@ -48,6 +48,10 @@ body {
     color: white !important;
 }
 
+.anchor-head-Config1:hover {
+    color: rgba(0, 0, 0, 0.5) !important;
+}
+
 .punch-box-Config {
     height: 500px;
 }
